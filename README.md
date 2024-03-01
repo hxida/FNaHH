@@ -1,2 +1,2 @@
 # FNaHH
-Friday Night at Hazbin Hotel Source and QNA Page.
+"Friday Night at Happy Hotel: The Hazbin Hotel" Source and QNA Page.
